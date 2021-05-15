@@ -1,7 +1,7 @@
-baseURL: "https://example.com"
+baseURL: "scripps.cairn.com"
 languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+title: "Scripps College Projects"
+pygmentsstyle: 'minted'
 metaDataFormat: yaml
 
 # Theme settings
