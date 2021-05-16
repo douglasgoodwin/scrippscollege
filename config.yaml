@@ -9,10 +9,7 @@ theme: hugo-theme-novela
 paginate: 6
 social:
   twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  github: "douglasgoodwin"
+  instagram: "douglasrgoodwin"
 taxonomies:
   author: authors
